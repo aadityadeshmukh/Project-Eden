@@ -9,6 +9,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Aditya's Digital Garden`,
+    title: `The garden of Forking Paths`,
   },
 }
