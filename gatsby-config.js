@@ -11,4 +11,5 @@ module.exports = {
   siteMetadata: {
     title: `The garden of forking paths`,
   },
+  pathPrefix: "/Project-Eden",
 }
