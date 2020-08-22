@@ -9,7 +9,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `The garden of forking paths`,
+    title: `Project-Eden`,
   },
   pathPrefix: "/Project-Eden",
 }
